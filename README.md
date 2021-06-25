@@ -4,11 +4,12 @@
 <p>
 <h1 align="left"> 
  Bem vindo(a)!
-</h1>
-
-<h3 align="left"> 
+ <h3 align="left"> 
 @AndreSntos
 </h3>
+</h1>
+
+
 </p>
 
 <h1 align="left"> 
