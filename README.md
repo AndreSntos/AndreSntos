@@ -29,7 +29,10 @@
 </p>
 
 <p align="left">
-  <img src="icons.png" align="left" alt="icons">
+ 
+  <img src="figma.png" align="left" alt="icons">
+  <img src="iconegit.png" align="left" alt="icons">
+  <img src="trello.png" align="left" alt="icons">
   <a href="https://www.linkedin.com/in/andre-sntos/" alt="Linkedin">
     <img src="linkedin.png" alt="linkedin">
   </a>
