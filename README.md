@@ -1,5 +1,5 @@
 
-<img src="fantasma.png" width-"300px" align="right" alt="fantasma">
+<img src="fantasma.png" width="300px" align="right" alt="fantasma">
 
 <p>
 <h1 align="left" font-size="60px"> 
