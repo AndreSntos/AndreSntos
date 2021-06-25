@@ -2,7 +2,7 @@
 <img src="fantasma.png" align="right" alt="fantasma">
 
 <p>
-<h1 align="left"> 
+<h1 align="left" font-size="60px"> 
  Bem vindo(a)!
  <h3 align="left"> 
 @AndreSntos
@@ -12,18 +12,18 @@
 
 </p>
 
-<h1 align="left" font-size="40px"> 
+<h1 align="left" font-size="60px"> 
  André da Silva Santos
  <img src="barra.png" align="left" alt="barra">
 </h1>
 
 
 
-<p align="left">
+<p align="left" font-size="40px">
   Sou desenvolvedor web há 1 ano, mais focado no frontend, design e motion. 
 </p>
 
-<p align="left">
+<p align="left" font-size="40px">
  Estou cursando o 3º semestre análise e desenvolvimento de sistemas e estagiando no Banco Safra! 
 </p>
 
