@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**AndreSntos/AndreSntos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="fantasma.png" align="right" alt="fantasma">
 
-Here are some ideas to get you started:
+<h1 align="left"> 
+ Bem vindo(a)!
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left"> 
+@AndreSntos
+</h3>
+
+<h1 align="left"> 
+ André da Silva Santos
+</h1>
+
+<img src="barra.png" align="left" alt="barra">
+
+<p align="left">
+  Sou desenvolvedor web há 1 ano, mais focado no frontend, design e motion. 
+</p>
+
+<p align="left">
+ Estou cursando o 3º semestre análise e desenvolvimento de sistemas e estagiando no Banco Safra! 
+</p>
+
+<p align="left">
+  <img src="icons.png" align="left" alt="icons">
+  <a href="https://www.linkedin.com/in/andre-sntos/" alt="Linkedin">
+    <img src="linkedin.png"/>
+  </a>
+</p>  
