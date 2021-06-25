@@ -14,9 +14,10 @@
 
 <h1 align="left"> 
  André da Silva Santos
+ <img src="barra.png" align="left" alt="barra">
 </h1>
 
-<img src="barra.png" align="left" alt="barra">
+
 
 <p align="left">
   Sou desenvolvedor web há 1 ano, mais focado no frontend, design e motion. 
