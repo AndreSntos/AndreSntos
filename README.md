@@ -12,7 +12,7 @@
 
 </p>
 
-<h1 align="left"> 
+<h1 align="left" font-size="40px"> 
  André da Silva Santos
  <img src="barra.png" align="left" alt="barra">
 </h1>
