@@ -12,10 +12,12 @@
 
 </p>
 
+<div>
 <h1 align="left" font-size="60px"> 
  André da Silva Santos
- <img src="barra.png" align="left" alt="barra">
 </h1>
+  <img src="barra.png" align="left" alt="barra">
+ </div>
 
 
 
