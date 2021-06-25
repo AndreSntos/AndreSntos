@@ -29,6 +29,6 @@
 <p align="left">
   <img src="icons.png" align="left" alt="icons">
   <a href="https://www.linkedin.com/in/andre-sntos/" alt="Linkedin">
-    <img src="linkedin.png"/>
+    <img src="linkedin.png" alt="linkedin">
   </a>
 </p>  
