@@ -20,13 +20,13 @@
 
 
 
-<p align="left" font-size="40px">
+<h4 align="left" font-size="40px">
   Sou desenvolvedor web há 1 ano, mais focado no frontend, design e motion. 
-</p>
+</h4>
 
-<p align="left" font-size="40px">
+<h4 align="left" font-size="40px">
  Estou cursando o 3º semestre análise e desenvolvimento de sistemas e estagiando no Banco Safra! 
-</p>
+</h4>
 
 <p align="left">
  
