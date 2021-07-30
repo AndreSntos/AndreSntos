@@ -36,4 +36,7 @@
   <a href="https://www.linkedin.com/in/andre-sntos/" alt="Linkedin">
     <img src="linkedin.png" alt="linkedin">
   </a>
+  <a href="https://twitter.com/AndreSntos_" alt="Twiter">
+    <img src="Twitter.png" alt="twiter">
+  </a>
 </p>  
