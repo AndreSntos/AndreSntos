@@ -34,9 +34,9 @@
   <img src="iconegit.png" align="left" alt="icons">
   <img src="trello.png" align="left" alt="icons">
   <a href="https://www.linkedin.com/in/andre-sntos/" alt="Linkedin">
-    <img src="linkedin.png" alt="linkedin">
+    <img src="linkedin.png" align="left" alt="linkedin">
   </a>
   <a href="https://twitter.com/AndreSntos_" alt="Twiter">
-    <img src="Twitter.svg" alt="twiter">
+    <img src="Twitter.svg" align="left" alt="twiter">
   </a>
 </p>  
