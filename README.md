@@ -37,6 +37,6 @@
     <img src="linkedin.png" alt="linkedin">
   </a>
   <a href="https://twitter.com/AndreSntos_" alt="Twiter">
-    <img src="Twitter.png" alt="twiter">
+    <img src="Twitter.svg" alt="twiter">
   </a>
 </p>  
