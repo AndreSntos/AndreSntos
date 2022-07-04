@@ -44,15 +44,8 @@ ou no Front-end como principlal conhecimento.
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresntos&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andresntos&theme=dark"/>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresntos&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)  ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresntos&theme=dark&show_icons=true)
  </div>
- 
- <div align="center">
- 
- ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresntos&theme=dark&show_icons=true)
- 
-  </div>
 
 
 
