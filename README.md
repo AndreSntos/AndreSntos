@@ -22,7 +22,7 @@ ou no Front-end como principlal conhecimento.
 </h4>
 
 <h4 align="left" font-size="40px">
- Sou formado em análise e desenvolvimento de sistemas e atualmente estagiando no Banco Safra! 
+ Sou formado em análise e desenvolvimento de sistemas e atualmente desenvolvedor fullstack na Trilobit! 
 </h4>
 
 <br>
