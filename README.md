@@ -41,7 +41,7 @@ ou no Front-end como principlal conhecimento.
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresntos&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresntos&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
  </div>
 
 
