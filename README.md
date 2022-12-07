@@ -4,9 +4,6 @@
 <p>
 <h1 align="left" font-size="60px"> 
  Bem vindo(a)!🖐️
- <h3 align="left"> 
-@AndreSntos
-</h3>
 </h1>
 
 
@@ -14,7 +11,7 @@
 
 <h4 align="left" font-size="40px">
   Olá, sou engenheiro de software no Brasil, com 
-mais de 1 ano e meio de experiência em criar e 
+mais de 2 anos de experiência em criar e 
 desenvolver sistemas profissionalmente, sendo 
 comunicativo, invovador, criativo e focando em 
 resolução de problemas, sendo elas de Back-end 
@@ -22,14 +19,14 @@ ou no Front-end como principlal conhecimento.
 </h4>
 
 <h4 align="left" font-size="40px">
- Sou formado em análise e desenvolvimento de sistemas e atualmente desenvolvedor fullstack na Trilobit! 
+ Sou formado em análise e desenvolvimento de sistemas e atualmente desenvolvedor fullstack pleno na Sx Tools! 
 </h4>
 
 <br>
 <br>
 
 <p align="left">
-  <a href="https://www.github.com/andresntos" alt="Linkedin">
+  <a href="https://www.github.com/andresntos" alt="GitHub">
   <img src="iconegit.png" align="left" alt="icons">
  </a>
   <a href="https://www.linkedin.com/in/andre-sntos/" alt="Linkedin">
