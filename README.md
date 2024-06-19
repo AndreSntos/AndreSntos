@@ -3,23 +3,22 @@
 
 <p>
 <h1 align="left" font-size="60px"> 
- Bem vindo(a)!🖐️
+ Welcome!🖐️
 </h1>
 
 
 </p>
 
 <h4 align="left" font-size="40px">
-  Olá, sou engenheiro de software no Brasil, com 
-mais de 2 anos de experiência em criar e 
-desenvolver sistemas profissionalmente, sendo 
-comunicativo, invovador, criativo e focando em 
-resolução de problemas, sendo elas de Back-end 
-ou no Front-end como principlal conhecimento. 
+  Developer Full Stack, specializing in C#/.NET and Angular.
+
+Working professionally with C#/.NET and Angular since 2020, improving the efficiency and connectivity of applications. I have experience in C#/.NET development for websites for banks and fintechs using Angular. All covered with XUnit, Cypress tests, using CI/CD, AWS, Docker, Entity Framework to facilitate access and manipulation of data in relational databases, etc.
+
+I'm passionate about building successful products, excellent at teamwork, experienced in streamlining processes to improve customer experience, and efficiently solving project problems, alongside multidisciplinary teams and agile projects.
 </h4>
 
 <h4 align="left" font-size="40px">
- Sou formado em análise e desenvolvimento de sistemas e atualmente desenvolvedor fullstack pleno na Sx Tools! 
+I have a degree in Systems Analysis and Development and I am currently a Mid-level Fullstack Developer at Tools Digital Services
 </h4>
 
 <br>
